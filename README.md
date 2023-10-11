@@ -1,16 +1,48 @@
 ### Hi there 👋
 
-<!--
-**ollajunseo/ollajunseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2. 굵게
+   -- **< 2개 열고 닫으면 **
+**굵게**
 
-Here are some ideas to get you started:
+3. 기울임
+ ''' * 기울임 * '''
+*기울임*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+4. 링크
+   '''[링크텍스트](url)'''
+   [링크텍스트](url)
+5. 이미지
+   '''![대체 텍스트](이미지url)'''
+   ![대체 텍스트](이미지url)
+
+6.리스트
+'''1. 번째 
+   2. 번째 '''
+1.번쨰
+2.번째
+
+7.인용
+  '''>인용문 '''
+
+8. 한줄코드
+   ''' '코드' '''
+   'int i = 0;'
+9. 구분선
+      '''___'''
+   ___
+10. 체크박스
+  ''' -[ ] 할일
+      -[x] 완료한 일 '''
+    -[] 할 일
+    -[x] 완료한 일
+11. 테이블
+    '''| 제목 1 | 제목 2 |
+       |-------|-------|
+       | 내용 2 | 내용 2 |
+    ''''
+
+       | 제목 1 | 제목 2 |
+       |-------|-------|
+       | 내용 2 | 내용 2 |
+    
+    
