@@ -51,14 +51,16 @@
     -[x] 완료한 일
 
 12. 테이블
-    ```| 제목 1 | 제목 2 | |-------|-------| | 내용 2 | 내용 2 |```
+    ```| 제목 1 | 제목 2 |
+       |-------|-------|
+       | 내용 2 | 내용 2 |```
     
 
        | 제목 1 | 제목 2 |
        |-------|-------|
        | 내용 2 | 내용 2 |
 
-13. 배치추가하기
+14. 배치추가하기
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
  
