@@ -1,2 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=soft&text=JunSeoYe)
+![header](https://capsule-render.vercel.app/api?type=soft&text=Jun+Seo+Ye)
 
