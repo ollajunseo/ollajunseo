@@ -1,2 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=soft)
-![header](https://capsule-render.vercel.app/api?text=OllaJunSeo)
+![header](https://capsule-render.vercel.app/api?type=soft,text=OllaJunSeo)
+
