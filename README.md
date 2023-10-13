@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=400&text=Thank+You+For+Coming&animation=blinking)
+![Welcome to Jun Seo GitHub](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=Welcome👋&fontAlign=70&rotate=13&fontAlignY=25&desc=Jun%20Seo%20GitHub&descAlign=70&descAlignY=44&descColor=000000&fontSize=60)
