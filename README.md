@@ -31,6 +31,11 @@
 <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" />
 
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ollajunseo&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollajunseo&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
+
 
 
 
